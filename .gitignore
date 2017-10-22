@@ -1,0 +1,11 @@
+/build/
+/tmp/
+__pycache__
+*.sdf
+*.suo
+*.opensdf
+*.VC.db
+*.*proj.user
+/vs*/Solutions/.vs/*
+/vs*/Solutions/ipch/*
+cacert.pem
